@@ -7,5 +7,5 @@
 
 - Respeitando a ordem dos modulos
 - Organizados por pastas
-- link oficial da Rocketseat
+- Link oficial da Rocketseat
 
