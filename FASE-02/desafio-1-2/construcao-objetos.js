@@ -2,6 +2,7 @@ const usuario = {
     nome: 'Poul',
     empresa: {
         nome: 'Rockeseat',
+        foco: 'Programação',
         rua: 'Rua Guilherme Gembala',
         numero: 260
     }
