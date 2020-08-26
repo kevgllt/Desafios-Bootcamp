@@ -23,4 +23,4 @@ As tecnologias também devem ser objetos contendo **nome** e **especialidade**, 
 { nome: **'JavaScript'**, especialidade: **'Web/Mobile'** }
 
 #### Detalhes completos dos desafios
-[Desafio 1-2](https://github.com/rocketseat-education/bootcamp-launchbase-desafios-01/blob/master/desafios/01-2-lidando-com-objetos-e-vetores.md#constru%C3%A7%C3%A3o-e-impress%C3%A3o-de-objetos)
+[Desafio 1-2 Github](https://github.com/rocketseat-education/bootcamp-launchbase-desafios-01/blob/master/desafios/01-2-lidando-com-objetos-e-vetores.md#constru%C3%A7%C3%A3o-e-impress%C3%A3o-de-objetos)
