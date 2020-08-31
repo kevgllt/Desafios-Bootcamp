@@ -21,13 +21,3 @@ function UsuarioUsaCss (usuario) {
 const mensagem = UsuarioUsaCss(usuarios)
 
 console.log(mensagem)
-
-
-
-
-// function adicionaUsuario (usuario) {
-//     let soma = 0
-//     for (let i = 0; i < usuario.length; i++) {
-//         soma = soma + usuario[i]
-//     }
-// }
